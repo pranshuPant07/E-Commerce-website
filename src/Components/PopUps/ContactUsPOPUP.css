@@ -1,0 +1,27 @@
+.main {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(15px);
+    background: rgba(83, 109, 241, 0.01);
+}
+
+#button2 {
+    background-color: #fdd251;
+    border: none;
+    margin-left: 463px;
+}
+
+.seconddivv {
+    background-color: #3D464D;
+    color: white;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

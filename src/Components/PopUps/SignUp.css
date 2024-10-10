@@ -1,0 +1,26 @@
+.mainbackground {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(15px);
+    background: rgba(255, 255, 255, 0.01);
+}
+
+#button1 {
+    background-color: #fdd251;
+    border: none;
+    margin-left: 463px;
+}
+
+.seconddiv {
+    background-color: #3D464D;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
